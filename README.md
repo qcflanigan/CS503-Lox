@@ -1,4 +1,4 @@
-Project Description:
+```Project Description:
 
     This project reflects a complete interpreter for the Lox programming language. 
     The interpreter is written in the C# programming language and follows Robert Nystrom's Java implementation in his textbook 'Crafting Interpreters'. 
